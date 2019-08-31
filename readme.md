@@ -1,6 +1,6 @@
-### 6 Digit Led Clock
+# 6 Digit Led Clock
 
-The source code for my gps based 6 digit LED clock.
+## The source code for my gps based 6 digit LED clock.
 
 The bare clock can be found [here](https://www.banggood.com/DIY-6-Digit-LED-Large-Screen-Two-Color-Digital-Tube-Desktop-Clock-Kit-Touch-Control-p-1150507.html)
 
