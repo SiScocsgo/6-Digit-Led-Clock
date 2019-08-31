@@ -26,3 +26,10 @@ The output transistor board for driving sufficient current through LEDs:
 
 ![alt text](https://cdn.thingiverse.com/assets/4a/27/68/29/3c/featured_preview_IMG_20190829_103334.png "Driver Board")
 
+Main clock pcb pinout: (G is pin 1, pin 14 is GND and pin 12 is 5v)
+
+![alt text](https://cdn.thingiverse.com/assets/97/6c/4f/d3/ae/featured_preview_IMG_20190831_225606.png "Main Board")
+
+Blackpill pro mini pcb pinout:
+
+![alt text](https://cdn.thingiverse.com/assets/eb/f7/02/e7/e6/featured_preview_IMG_20190831_225614.png "Blackpill board")
