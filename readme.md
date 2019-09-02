@@ -2,11 +2,13 @@
 
 ## The source code for my gps based 6 digit LED clock.
 
-The bare clock can be found [here](https://www.banggood.com/DIY-6-Digit-LED-Large-Screen-Two-Color-Digital-Tube-Desktop-Clock-Kit-Touch-Control-p-1150507.html)
+The bare clock can be found [here](https://www.banggood.com/DIY-6-Digit-LED-Large-Screen-Two-Color-Digital-Tube-Desktop-Clock-Kit-Touch-Control-p-1150507.html).
 
-The stl files for the case can be found [here](https://www.thingiverse.com/thing:3839005)
+The stl files for the case can be found [here](https://www.thingiverse.com/thing:3839005).
 
-You can find a guide on setting up an arm development environment in VSCode [here](http://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx)
+For programming the BlackPill Pro Mini you can find STLink V2 clones [here](https://www.ebay.com/sch/i.html?_from=R40&_nkw=stlink+v2&_sacat=0&rt=nc&LH_BIN=1).
+
+You can find a guide on setting up an arm development environment in VSCode [here](http://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx).
 
 
 
