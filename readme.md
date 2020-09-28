@@ -24,7 +24,7 @@ The back of the main pcb:
 
 ![alt text](https://cdn.thingiverse.com/assets/99/3c/21/44/87/featured_preview_IMG_20190829_164015.png "Back 1")
 
-The output transistor board for driving sufficient current through LEDs:
+The output transistor board for driving higher current through LEDs to make them slightly brighter (driving the leds at 5v instead of the stm32's 3.3v supply):
 
 ![alt text](https://cdn.thingiverse.com/assets/4a/27/68/29/3c/featured_preview_IMG_20190829_103334.png "Driver Board")
 
